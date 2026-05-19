@@ -1,4 +1,4 @@
-//! static: kono akta class er kono property or method k different jyaha theke niye ak serial a rakha k static kora bole
+//! static: kono akta class er kono property or method k different jyaga theke niye ak serial a rakha k static kora bole
 
 //* Example : 01 This is a dynamic count
 
