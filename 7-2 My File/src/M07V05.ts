@@ -26,6 +26,6 @@ console.log(fijerAccount);
 
 class StudentBankAccount extends BankAccount {
   test() {
-    this.userBalance;
+    // this.userBalance;
   }
 }

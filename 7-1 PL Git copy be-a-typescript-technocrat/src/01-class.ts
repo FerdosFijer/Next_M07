@@ -21,7 +21,7 @@
 
 class Animal {
   constructor(public name: string, public species: string, public sound: string) {
-   
+    
   }
 
   makeSound() {
@@ -34,7 +34,7 @@ const dog = new Animal("dogesh bhai", "dog", "Ghew ghew");
 
 // const cat = new Animal("Cat bhai", "Cat", "mewa meaw");
 
-dog.;
+dog
 
 // function add (num1: number,num2:number){
 

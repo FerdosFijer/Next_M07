@@ -38,5 +38,4 @@ const getUserInfo = (user: NormalUser | AdminUser) => {
     console.log(` ${user.name}`);
   }
 };
-
 getUserInfo({ name: "Normal", role: "Admin" });
